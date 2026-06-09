@@ -4,6 +4,7 @@ Backend academico do sistema StudyFlow, desenvolvido com Java 17 e Spring Boot p
 
 ## Integrantes
 
+- Adriel Daywison Bibiano Luiz
 - Arthur Azevedo Costa de Paula
 - Dandalia Luiza da Silva Teixeira
 - Jose Heitor Felix Guimaraes
